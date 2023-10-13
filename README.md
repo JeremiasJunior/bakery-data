@@ -29,3 +29,6 @@ One feature of this project is using API calls to gather geolocation data based 
 ## Data Visualization
 
 To visualize the collected data, the project is integrated with Tableau. You can use Tableau to create insightful visualizations and reports based on the gathered data.
+
+![tableau]([https://github.com/username/repositoryname/blob/main/path/to/image.png](https://github.com/JeremiasJunior/bakery-data/blob/main/tableau.png?raw=true)https://github.com/JeremiasJunior/bakery-data/blob/main/tableau.png?raw=true)
+
