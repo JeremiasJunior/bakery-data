@@ -1,0 +1,2 @@
+you can directly download all the data from the governament website. In this project, we will exclusively utilize data related to "Estabelecimento" (facility).
+-https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj
